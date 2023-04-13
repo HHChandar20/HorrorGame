@@ -1,0 +1,6 @@
+W,A,S,D - Walk
+Space - Jump
+F - Turn on/off the lantern
+E - Interact
+
+Have fun   : )
